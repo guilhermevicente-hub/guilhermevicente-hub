@@ -4,8 +4,14 @@
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-vicentee/)
 [![Blog](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/oguilhermesssv)
 
+<a href="https://github.com/guilhermevicente-hub/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=guilhermevicente-hub" />
+</a>
+<a href="https://github.com/guilhermevicente-hub/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermevicente-hub&layout=compact&langs_count=8&card_width=320" />
+</a>
 
-![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermevicente-hub&show_icons=true&theme=onedark)
+
 
 ## Tecnologias que uso!
 
