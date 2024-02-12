@@ -6,11 +6,7 @@
 
 <a href="https://github.com/guilhermevicente-hub/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=guilhermevicente-hub" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermevicente-hub&layout=compact&langs_count=8&card_width=320" />
 </a>
-<!-- <a href="https://github.com/guilhermevicente-hub/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermevicente-hub&layout=compact&langs_count=8&card_width=320" />
-</a> -->
 
 ## Tecnologias que uso!
 
@@ -23,3 +19,8 @@
 </div></br>
 
 #### Não é a linguagem de programação que define o programador, mas sim sua lógica. 
+
+
+<a href="https://github.com/guilhermevicente-hub/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermevicente-hub&layout=compact&langs_count=8&card_width=320" />
+</a>
